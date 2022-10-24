@@ -1,0 +1,139 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "stage",
+		"player1": "bf-pibby",
+		"player2": "cuphead",
+		"player3": null,
+		"events": [
+			[
+				82596.5665236053,
+				[
+					[
+						"Screen Shake",
+						"1,0.04",
+						"1,0.04"
+					]
+				]
+			],
+			[
+				83111.5879828327,
+				[
+					[
+						"Change Character",
+						"2",
+						"glitched mugman"
+					]
+				]
+			],
+			[
+				104871.244635193,
+				[
+					[
+						"Screen Shake",
+						"1,0.04",
+						"1,0.04"
+					]
+				]
+			],
+			[
+				105450.643776824,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				105515.021459228,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				105579.399141631,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				105643.776824035,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				105708.154506438,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				105772.532188841,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				105836.909871245,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				105901.287553648,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					]
+				]
+			],
+			[
+				126695.278969958,
+				[
+					[
+						"Screen Shake",
+						"1,0.04",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf invisible",
+		"bpm": 233,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "brothers"
+	}
+}
