@@ -1,0 +1,199 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stage",
+		"player1": "bf-pibby",
+		"player2": "cuphead",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				7384.61538461538,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				7846.15384615385,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				8307.69230769231,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				8769.23076923077,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				9230.76923076923,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				9692.30769230769,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				10153.8461538462,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				10615.3846153846,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				11076.9230769231,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				11538.4615384615,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				12461.5384615385,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				12923.0769230769,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				13384.6153846154,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				13846.1538461538,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				14307.6923076923,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				14884.6153846154,
+				[
+					[
+						"Blammed Lights",
+						"0",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf invisible",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "The-Glitched-Show"
+	}
+}
