@@ -1,0 +1,239 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "stage",
+		"player1": "bf-pibby",
+		"player2": "cuphead",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Blammed Lights",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				91.4634146341463,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				182.926829268293,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				274.390243902439,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				365.853658536585,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				457.317073170732,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				548.780487804878,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				640.243902439024,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				731.707317073171,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				823.170731707317,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				914.634146341463,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				1006.09756097561,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				1097.56097560976,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				1189.0243902439,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				1280.48780487805,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				1371.9512195122,
+				[
+					[
+						"Add Camera Zoom",
+						"cuphead",
+						""
+					]
+				]
+			],
+			[
+				1463.41463414634,
+				[
+					[
+						"Blammed Lights",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				2926.82926829268,
+				[
+					[
+						"Blammed Lights",
+						"3",
+						""
+					]
+				]
+			],
+			[
+				4390.24390243902,
+				[
+					[
+						"Blammed Lights",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				5853.65853658537,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				7317.07317073171,
+				[
+					[
+						"Blammed Lights",
+						"5",
+						""
+					]
+				]
+			],
+			[
+				81585.3658536585,
+				[
+					[
+						"Screen Shake",
+						"1,0.05",
+						"1,0.05"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf invisible",
+		"bpm": 164,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Slipped"
+	}
+}
