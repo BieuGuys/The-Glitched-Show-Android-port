@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				111
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cup idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				370,
+				117
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cup left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cup right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cup down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				344,
+				101
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cup up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cup",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dual",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-80,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}
