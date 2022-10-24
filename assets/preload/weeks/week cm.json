@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"The-glitched-show",
+			"cuphead-glitch",
+			[
+				255,
+				33,
+				53
+			]
+		],
+		[
+			"slipped",
+			"cuphead-glitch",
+			[
+				255,
+				33,
+				53
+			]
+		],
+		[
+			"brothers",
+			"dual",
+			[
+				255,
+				33,
+				53
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "glitch cup",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Dont deal with the devil",
+	"weekName": "cuphead",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
